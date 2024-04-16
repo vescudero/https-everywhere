@@ -36,7 +36,7 @@
     "probot": "^6.1.0",
     "remark": "^9.0.0",
     "request": "^2.83.0",
-    "strip-markdown": "^3.0.1",
+    "strip-markdown": "^3.1.2",
     "unzip": "^0.1.11"
   }
 }
