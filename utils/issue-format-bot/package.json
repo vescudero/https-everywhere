@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "domain-from-partial-url": "^1.0.0",
-    "html-entities": "^1.2.1",
+    "html-entities": "^1.4.0",
     "lodash": "^4.17.5",
     "probot": "^6.1.0",
     "remark": "^9.0.0",
