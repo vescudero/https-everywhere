@@ -1,4 +1,4 @@
-FROM node
+FROM node:25.6.0-bookworm
 MAINTAINER William Budington <bill@eff.org>
 
 WORKDIR /opt
